@@ -1,7 +1,7 @@
 require("dotenv").config;
 
-export default function keyVal(key) {
-    return process.env.key
-}
+module.exports.keyVal(key)[
+    process.env.key.valueOf()
+]
 
 // https://docs.insomnia.rest/insomnia/introduction-to-plugins

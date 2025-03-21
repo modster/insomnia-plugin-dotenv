@@ -4,7 +4,7 @@
   "private": true,
   "insomnia": {
     "name": "dotenv",
-    "description": ""
+    "description": "Grab env vars from a .env file"
   },
   "main": "main.js",
   "dependencies": {
